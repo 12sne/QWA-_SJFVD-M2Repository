@@ -6,6 +6,6 @@
 		</attributes>
 	</classpathentry>
 	<classpathentry kind="src" path="src"/>
-	<classpathentry kind="lib" path="jars/Unconfirmed 567485.crdownload"/>
+	<classpathentry kind="lib" path="/Users/apple/Downloads/selenium-server-4.15.0.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
